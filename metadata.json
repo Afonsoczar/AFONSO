@@ -1,0 +1,7 @@
+{
+  "name": "Rota de Vendas - Daniel",
+  "description": "Um aplicativo para o vendedor Daniel rastrear suas visitas a clientes, registrar vendas, adicionar observações e compartilhar relatórios via WhatsApp. O aplicativo salva os dados localmente e utiliza geolocalização.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
